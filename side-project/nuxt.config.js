@@ -5,6 +5,9 @@ export default {
   ** See https://nuxtjs.org/api/configuration-mode
   */
   mode: 'spa',
+  router: {
+    base: '/vue-side-project-deploy/'
+  },
   /*
   ** Nuxt target
   ** See https://nuxtjs.org/api/configuration-target
